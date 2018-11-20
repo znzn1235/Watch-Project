@@ -16,7 +16,7 @@ class watch
 		}
 
 void getTime(){
-	cout << "What time id it? " << hour << "hour " << minute << "minute " << second << "second." << endl;
+	cout << "What time is it? " << hour << "hour " << minute << "minute " << second << "second." << endl;
 }
 };
 
